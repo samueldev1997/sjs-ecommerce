@@ -1,0 +1,46 @@
+{
+  "products": [
+    { 
+      "id": 1, 
+      "title": "Monitores de áudio KRK Rokit 5", 
+      "description": "Monitor profissional de produção musical da KRK Systems ROKIT RP5 G4 (Geração 4)",
+      "price":3979.00,
+      "cover": "https://www.mundodj.com.br/arquivos/PRODUTOS/4721658263886970843/1727_G_1ac87f0043jpg_86.jpg"
+    },
+    { 
+      "id": 2, 
+      "title": "Monitor de áudio Yamaha", 
+      "description": "Par De Monitores Bi-amplificado 70w Hs 5 Branco Yamaha 110v",
+      "price": 3861.99,
+      "cover": "https://cdn.awsli.com.br/1717/1717335/produto/72174634/monitores-de-referencia-caixa-hs7-branco-par-110v-yamaha-ba8dcf6a.jpg"
+    },
+    { 
+      "id": 3, 
+      "title": "Genelec 8320 A - Monitor 8320a Dark Grey", 
+      "description": "Genelec 8320 A – Monitor 8320a Dark Grey",
+      "price": 14999.00,
+      "cover": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQnLkSNuQUlVrbmb5xvfRsfuS7ME2yxcTrnUJw2_-3G6QKZlh8nipe5r2wgWn_irDSwUlLPMLqSy0MFvkVgH0VbvAvk6MgGXgk0XN_8vtE&usqp=CAE"
+    },
+    { 
+      "id": 4, 
+      "title": "Monitor de áudio ADAM", 
+      "description": "Par de monitores de áudio ativo 5 polegadas ADAM Audio T5V",
+      "price": 4588.19,
+      "cover": "https://musiccompany.fbitsstatic.net/img/p/par-de-monitores-de-audio-ativo-5-polegadas-adam-audio-t5v-151534/337494.jpg?w=1000&h=1000&v=no-value"
+    },
+    { 
+      "id": 5, 
+      "title": "Monitor De Referência JBL", 
+      "description": "2 Monitor De Referência Estúdio Jbl 305p Mkii Ativo Acústica 100V/240V",
+      "price": 3190.00,
+      "cover": "https://http2.mlstatic.com/D_NQ_NP_682645-MLU70812837085_082023-O.webp"
+    },
+    { 
+      "id": 6, 
+      "title": "Monitores De Estúdio Edifier", 
+      "description": "MONITOR DE ÁUDIO 2.0 R980T BIVOLT 24W RMS EDIFIER - PRETO",
+      "price": 649.00,
+      "cover": "https://edifier.com.br/pub/media/catalog/product/cache/f1731b22860b0086fc34e14d5ee03543/r/9/r980t_-_produto_1.jpg"
+    }
+  ]
+}
