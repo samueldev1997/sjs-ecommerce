@@ -1,30 +1,41 @@
-# React + TypeScript + Vite
+# SJS.Sounds
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SJS.Sounds é um ecommerce que permite aos usuários visualizar uma lista de produtos, adicionar produtos ao carrinho de compras e visualizar detalhes dos produtos ao clicar na imagem.
+<br/>
 
-Currently, two official plugins are available:
+Deploy: https://sjs-ecommerce.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🔥 Funcionalidades Principais
 
-## Expanding the ESLint configuration
+- Listar produtos em alta.
+- Adicionar produtos ao carrinho de compras.
+- Visualizar detalhes dos produtos ao clicar na imagem do produto.
+- Excluir produto do carrinho.
+- Feedback visual ao adicionar produtos ao carrinho.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### ⚙️ Tecnologias Utilizadas ⚙️
 
-- Configure the top-level `parserOptions` property like this:
+- React
+- Context API
+- TypeScript
+- Tailwind CSS
+- API de produtos
+- React Icons
+- React Hot Toast
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+### 🔨 Instalação
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Clone o repositório: git clone https://github.com/samueldev1997/sjs-ecommerce
+2. Navegue até o diretório do projeto: cd sjs-ecommerce
+3. Instale as dependências: npm install
+4. Inicie o servidor: npm run dev (ou use o comando adequado)
+5. O aplicativo estará disponível no localhost que aparecera no seu painel ex: [http://localhost:3000](http://localhost:3000/)
+
+### ⚙️ API
+O projeto utiliza uma API fake hospedada na Vercel. A configuração da API já está pronta para uso e não requer nenhuma configuração adicional por parte do usuário. As requisições para a API funcionarão automaticamente.
+
+<br/> <br/> <br/>
+<div align="center">
+<img src="https://github.com/samueldev1997/cripto-app/assets/139514932/1193895a-1b26-4b03-b703-f088165acb91" width='500px' />
+<img src="https://github.com/samueldev1997/cripto-app/assets/139514932/4d455410-bd5a-4a76-9ca2-7a95df26da42" width='500px' height='382px'/>
+</div>
