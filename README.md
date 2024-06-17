@@ -35,7 +35,8 @@ Deploy: https://sjs-ecommerce.vercel.app/
 O projeto utiliza uma API fake hospedada na Vercel. A configuração da API já está pronta para uso e não requer nenhuma configuração adicional por parte do usuário. As requisições para a API funcionarão automaticamente.
 
 <br/> <br/> <br/>
-<div align="center">
-<img src="https://github.com/samueldev1997/cripto-app/assets/139514932/1193895a-1b26-4b03-b703-f088165acb91" width='500px' />
-<img src="https://github.com/samueldev1997/cripto-app/assets/139514932/4d455410-bd5a-4a76-9ca2-7a95df26da42" width='500px' height='382px'/>
+<div align='center'>
+<img src="https://github.com/samueldev1997/sjs-ecommerce/assets/139514932/76faa041-659f-4da4-95d6-d869c8bbdcd9" width='900px' />
+<img src="https://github.com/samueldev1997/sjs-ecommerce/assets/139514932/098ce9c9-2293-44c1-9954-1995c8f884e6" width='900px'/>
+<img src="https://github.com/samueldev1997/sjs-ecommerce/assets/139514932/32d63447-36c8-4f01-9d97-0467f9e3bb19" width='900px'/>
 </div>
